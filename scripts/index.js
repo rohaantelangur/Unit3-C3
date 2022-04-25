@@ -23,5 +23,5 @@ function wallet(){
 
 
 document.getElementById("book_movies").addEventListener("click", function(){
-    window.location.href="movies.js"
+    window.location.href="movies.html"
 })
